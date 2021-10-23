@@ -2,7 +2,7 @@ package day02;
 
 public class Geometry {
     public static void main(String[] args) {
-        Rectangle rectangle = new Rectangle(3.3,3.6);
-        System.out.println(rectangle.area());
+        Rectangle rectangle = new Rectangle(4.3,3.2);
+        System.out.println(rectangle.calculateArea());
     }
 }
